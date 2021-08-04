@@ -17,8 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/zedikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zedikumar" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/akash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/a.for.akash94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.for.akash94" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
