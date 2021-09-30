@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [has-and-belongs_to_many](https://github.com/akash-techqware/has-and-belongs_to_many)
-
 - 🌱 I’m currently learning **RoR**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash-techqware?tab=repositories](https://github.com/akash-techqware?tab=repositories)
