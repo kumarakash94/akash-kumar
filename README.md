@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **kumar.ryan94@gmail.com**
 
+<a href="https://app.daily.dev/akashprajapati"><img src="https://api.daily.dev/devcards/e46265c6c3734ad8a5f5ee42b424ea2e.png?r=o4v" width="400" alt="Akash Prajapati's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zedikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zedikumar" height="30" width="40" /></a>
